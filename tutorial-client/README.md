@@ -15,3 +15,5 @@ To start the app server from the commandline: `lein run`.
 
 * [Overview of how pedestal-app works](http://pedestal.io/documentation/application-overview/)
 * [Comprehensive tutorial for pedestal-app](https://github.com/pedestal/app-tutorial)
+
+=> https://github.com/pedestal/app-tutorial/wiki/Slicing-Templates
